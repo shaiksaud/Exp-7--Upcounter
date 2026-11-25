@@ -183,5 +183,5 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Result
 
-Thus, the 4-bit Synchronous Up-Counter was designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
+Thus, the 4-bit Synchronous Up-Counter was designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE..
 
